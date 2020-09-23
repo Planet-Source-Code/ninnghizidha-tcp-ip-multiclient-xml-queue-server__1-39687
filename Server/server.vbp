@@ -1,0 +1,43 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\..\WINDOWS\System32\Stdole2.tlb#OLE Automation
+Reference=*\G{F5078F18-C551-11D3-89B9-0000F81FE221}#4.0#0#..\..\..\..\..\..\WINDOWS\System32\msxml4.dll#Microsoft XML, v4.0
+Object={248DD890-BB45-11CF-9ABC-0080C7E7B78D}#1.0#0; mswinsck.ocx
+Form=frmMain.frm
+Module=modXMLData; modDataTransfer.bas
+IconForm="frmMain"
+Startup="frmMain"
+HelpFile=""
+Title="Server"
+ExeName32="Server.exe"
+Command32=""
+Name="Server"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="sperlhofer.com"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+DebugStartupOption=0
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[AppForge Global]
+MODID=E40BBFD6-3A9A-42AD-8EDE-5454CA13D760
